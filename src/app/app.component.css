@@ -1,0 +1,12 @@
+.bordered{
+    border: 1px dashed black;
+    background-color: chartreuse;
+}
+
+.blue{
+color:blue;
+}
+
+.round{
+    border-radius:5px;
+}
